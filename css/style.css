@@ -1,0 +1,60 @@
+div#back {
+    width: 150px;
+    height: 200px;
+    background: beige;
+    position: center;
+
+}
+
+container{
+    width: 250px;
+    height: 300px;
+    display: block;
+    padding: 10px;
+    background: #ba8e5d;
+}
+
+div.button-container{
+    margin: auto;
+}
+
+div {
+    margin: auto;
+}
+
+button {
+font-family: 'Gamja Flower', cursive;
+background:#eac781;
+border:#75542e;
+color: #633807;
+box-shadow: 1px 1px 1px;
+}
+
+input {
+    width: 196px;
+    height: 30px;
+    margin-bottom: px;
+    margin-bottom: 5px;
+}
+
+button.num, button.clear{
+    margin: 0px -2px 0px -2px;
+    height: 50px;
+    width: 50px;
+}
+
+button.op{
+    position:absolute;
+    height: 50px;
+    width: 50px;
+    margin:0 0 0 0px;
+    background: #8eb2ed;
+    display: inline;
+}
+
+button#equal {
+    width: 198px;
+    height: 20px;
+    margin: -2px;
+}
+
